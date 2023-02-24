@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.card{
+    background-color: white;
+    width:10vw;
+    height:25vh;
+    position: relative;
+    left:42vw;
+}
+.foto{
+    width:10vw;
+    height:30vh;
+}
